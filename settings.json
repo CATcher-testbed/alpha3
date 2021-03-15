@@ -1,5 +1,5 @@
 {
-  "openPhases" : ["phaseBugReporting"],
+  "openPhases" : ["alpha3-dev-response"],
   "phaseBugReporting": "alpha3",
   "phaseTeamResponse": "alpha3-dev-response",
   "phaseTesterResponse": "alpha3",
